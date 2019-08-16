@@ -1,4 +1,4 @@
-# Portfolio
+Portfolio
 
 A portfolio to display my applications and background!
 Modifying a template provided by @ajlkn, the page uses HTML, JS, and SASS to provide visualizations and allow user interactions. 
